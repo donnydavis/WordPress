@@ -143,7 +143,6 @@ switch($step) {
 			$step_1 .= '&amp;language=' . $loaded_language;
 		}
 ?>
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/RedHat.svg/1280px-RedHat.svg.png" width="280" height="125" title="Logo of a company" alt="Logo of a company" />
 <h1 class="screen-reader-text"><?php _e( 'Before getting started' ) ?></h1>
 <p><?php _e( 'Welcome to WordPress. Before getting started, we need some information on the database. You will need to know the following items before proceeding.' ) ?></p>
 <ol>
