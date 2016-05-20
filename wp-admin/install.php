@@ -76,7 +76,6 @@ function display_header( $body_classes = '' ) {
 		wp_admin_css( 'dashicons', true );
 	?>
 </head>
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/RedHat.svg/1280px-RedHat.svg.png" width="280" height="125" title="Logo of a company" alt="Logo of a company" />
 <body class="wp-core-ui<?php echo $body_classes ?>">
 <p id="logo"><a href="<?php echo esc_url( __( 'https://wordpress.org/' ) ); ?>" tabindex="-1"><?php _e( 'WordPress' ); ?></a></p>
 
